@@ -1,0 +1,3 @@
+service namespace "test.refugeejobservice" {
+    "S0016586310"."Products" as "products";
+}
