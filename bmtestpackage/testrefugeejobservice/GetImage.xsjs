@@ -1,4 +1,4 @@
-//Documentation testing
+//Documentation testing and adding to a new branch
 var conn = $.db.getConnection();
 
 try {
