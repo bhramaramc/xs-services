@@ -1,3 +1,4 @@
+//Documentation
 var conn = $.db.getConnection();
 
 try {
